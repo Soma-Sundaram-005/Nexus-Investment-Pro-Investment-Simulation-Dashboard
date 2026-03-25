@@ -1,0 +1,6 @@
+#install on terminal
+pip install streamlit pandas plotly
+#to run
+cd "C:\Users\navee\Downloads\investment clac\investment clac"
+app.py
+python -m streamlit run app.py
